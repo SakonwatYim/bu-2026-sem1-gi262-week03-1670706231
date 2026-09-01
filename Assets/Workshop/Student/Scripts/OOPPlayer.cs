@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class OOPPlayer : MonoBehaviour
+public class OOPPlayer : Character
 {
     public string Name;
     public int positionX;
